@@ -2,7 +2,9 @@
 por: José Eduardo
 
 ## Jogabilidade
-	A jogabilidade deste jogo é baseado em alternativas sobre situações na qual o professor se insere. Possui apenas uma resposta correta, caso você erre, a fase irá se repetir. Cada alternativa tem notas e você arrecada pontos ou perde que serão contados no final.
+	A jogabilidade deste jogo é baseado em alternativas sobre situações na qual o professor se insere.
+	Possui apenas uma resposta correta, caso você erre, a fase irá se repetir.
+	Cada alternativa tem notas e você arrecada pontos ou perde que serão contados no final.
 ## História
 	A História é simples, você é um professor universitário de geografia lidando com certas situações da escola que envolvem questões sociais e convivência, você orienta seus alunos a lidar com problemas relacionados aos conflitos de ideias.
 ## Comandos de Programação
